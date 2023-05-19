@@ -92,7 +92,7 @@ class _InsertpageState extends State<Insertpage> {
                     namestatus = true;
                     setState(() {});
                   } else if (contact.isEmpty) {
-                    contacterror = "Please enter the contact";
+                    contacterror = "Please enter th contact";
                     setState(() {});
                   } else if (contact.length < 10) {
                     contacterror = "Please enter the valid contact";
