@@ -54,7 +54,7 @@ class _InsertpageState extends State<Insertpage> {
                       labelText: "Name",
                       border: OutlineInputBorder(
                           borderRadius: BorderRadius.circular(15)),
-                      errorText: namestatus ? "Fill your Name" : null),
+                      errorText: namestatus ? "Fill your Names" : null),
                   controller: tname,
                 ),
               ),
