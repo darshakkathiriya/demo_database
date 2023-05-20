@@ -36,7 +36,7 @@ class _InsertpageState extends State<Insertpage> {
         appBar: AppBar(
           backgroundColor: Colors.black,
           title: Text(
-            "New Contacts",
+            "New Contact",
             style: TextStyle(fontSize: 20),
           ),
           centerTitle: true,
